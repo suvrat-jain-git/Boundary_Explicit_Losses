@@ -1,0 +1,118 @@
+{
+  "phase4_L0_base_seed42": {
+    "status": "done",
+    "best_val_loss": 0.7121785925782245,
+    "elapsed_min": 32.94029578367869,
+    "ckpt_path": "checkpoints/phase4_L0_base.pt"
+  },
+  "phase4_L1_boundary_uniform_seed42": {
+    "status": "done",
+    "best_val_loss": 0.8158454806908317,
+    "elapsed_min": 31.309740285078686,
+    "ckpt_path": "checkpoints/phase4_L1_boundary_uniform.pt"
+  },
+  "phase4_L2_boundary_grad_seed42": {
+    "status": "done",
+    "best_val_loss": 0.7310896769813869,
+    "elapsed_min": 32.09395214319229,
+    "ckpt_path": "checkpoints/phase4_L2_boundary_grad.pt"
+  },
+  "phase4_L3_spectral_only_seed42": {
+    "status": "done",
+    "best_val_loss": 1.5289397675058116,
+    "elapsed_min": 46.84834628899892,
+    "ckpt_path": "checkpoints/phase4_L3_spectral_only.pt"
+  },
+  "phase4_L3c_adaptive_spectral_seed42": {
+    "status": "done",
+    "best_val_loss": 0.7284349540005559,
+    "elapsed_min": 47.00676637093226,
+    "ckpt_path": "checkpoints/phase4_L3c_adaptive_spectral.pt"
+  },
+  "phase4_L3c_no_entropy_seed42": {
+    "status": "done",
+    "best_val_loss": 0.8009237030278081,
+    "elapsed_min": 46.97483962774277,
+    "ckpt_path": "checkpoints/phase4_L3c_no_entropy.pt"
+  },
+  "phase4_L_ffl_seed42": {
+    "status": "done",
+    "best_val_loss": 1.9018679929816205,
+    "elapsed_min": 32.00851901372274,
+    "ckpt_path": "checkpoints/phase4_L_ffl.pt"
+  },
+  "phase4_L4_full_method_seed42": {
+    "status": "done",
+    "best_val_loss": 1.5775587455086086,
+    "elapsed_min": 49.014438978830974,
+    "ckpt_path": "checkpoints/phase4_L4_full_method.pt"
+  },
+  "phase4_L5_full_uw_seed42": {
+    "status": "done",
+    "best_val_loss": 1.711845932836118,
+    "elapsed_min": 48.62556525071462,
+    "ckpt_path": "checkpoints/phase4_L5_full_uw.pt"
+  },
+  "phase4_L6_full_adaptive_seed42": {
+    "status": "done",
+    "best_val_loss": 0.7801638997119406,
+    "elapsed_min": 48.80845871766408,
+    "ckpt_path": "checkpoints/phase4_L6_full_adaptive.pt"
+  },
+  "phase4_L7_full_adaptive_uw_seed42": {
+    "status": "done",
+    "best_val_loss": 0.8831833466239597,
+    "elapsed_min": 48.754999629656474,
+    "ckpt_path": "checkpoints/phase4_L7_full_adaptive_uw.pt"
+  },
+  "C0_convnext_base_seed42": {
+    "status": "done",
+    "best_val_loss": 0.7191298909809278,
+    "elapsed_min": 31.362458539009094
+  },
+  "C4_convnext_full_seed42": {
+    "status": "done",
+    "best_val_loss": 1.5900109436201013,
+    "elapsed_min": 45.86110730171204
+  },
+  "multiseed_L0_base_seed123": {
+    "status": "done",
+    "best_val_loss": 0.7129480973533963,
+    "seed": 123
+  },
+  "multiseed_L0_base_seed456": {
+    "status": "done",
+    "best_val_loss": 0.7118920212206633,
+    "seed": 456
+  },
+  "multiseed_L2_boundary_grad_seed123": {
+    "status": "done",
+    "best_val_loss": 0.7309497657029526,
+    "seed": 123
+  },
+  "multiseed_L2_boundary_grad_seed456": {
+    "status": "done",
+    "best_val_loss": 0.7314190916393114,
+    "seed": 456
+  },
+  "multiseed_L3c_adaptive_spectral_seed123": {
+    "status": "done",
+    "best_val_loss": 0.7301169929297074,
+    "seed": 123
+  },
+  "multiseed_L3c_adaptive_spectral_seed456": {
+    "status": "done",
+    "best_val_loss": 0.7294540788816369,
+    "seed": 456
+  },
+  "multiseed_L6_full_adaptive_seed123": {
+    "status": "done",
+    "best_val_loss": 0.7810647026352261,
+    "seed": 123
+  },
+  "multiseed_L6_full_adaptive_seed456": {
+    "status": "done",
+    "best_val_loss": 0.7816588215205981,
+    "seed": 456
+  }
+}
